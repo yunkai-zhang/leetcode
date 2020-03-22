@@ -19,3 +19,11 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 - [java用类实现queue2](https://www.cnblogs.com/lemon-flm/p/7877898.html)<br/>
 - [java用类实现queue2](https://www.runoob.com/java/data-queue.html)<br/>
 
+#### 二分查找（binary search）
+- 知识概要：
+  - 时间复杂度o（logn）
+  - 常用于待查数所在数组有序的时候
+- 一些链接：
+  - [二分查找的基础知识和题目范例](https://www.jianshu.com/p/3bdb7c29ab32)
+ 
+ 
