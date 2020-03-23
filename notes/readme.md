@@ -41,5 +41,11 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
   - 贪心算法vs动态规划。贪心：目光短浅，结果不一定最优，当前状况下，每次都选取当前状态下最优的解。动态规划：结果最优，依据前一个状态，在状态改变的时候计算变迁。<br/>
   
 - [动态规划以及例题，详细，共七集](https://www.bilibili.com/video/av95895415?p=1)<br/>
- 
+
+
+#### 树
+- [二叉树的前序中序后序遍历](https://blog.csdn.net/weixin_41316824/article/details/88721467)，还不懂可以去b站看视频讲解
+- [树的数据结构知识概要](https://blog.csdn.net/wannuoge4766/article/details/83998377)
+- [leetcode中关于树的题目](https://www.cnblogs.com/liuzhen1995/p/11921771.html)，这是第一部分，文章滑到结尾有第二和第三部分的链接
+
  
