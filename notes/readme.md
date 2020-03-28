@@ -48,5 +48,7 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 - [树的数据结构知识概要](https://blog.csdn.net/wannuoge4766/article/details/83998377)
 - [leetcode中关于树的题目](https://www.cnblogs.com/liuzhen1995/p/11921771.html)，这是第一部分，文章滑到结尾有第二和第三部分的链接
 - [递归和迭代的区别](https://www.jianshu.com/p/32bcc45efd32)
+- 平衡二叉树是指，在搭建二叉搜索树时，第一次出现一个节点的某边子树与另一边的子树的高度差超过1，则此时的树就已经不是平衡二叉（搜索）树了。要通过左旋或者右旋把它变成平衡的。这样在二分检索的时候，效率才高。<br/>
+[戳我](https://baijiahao.baidu.com/s?id=1646617486319372351&wfr=spider&for=pc)
 
  
