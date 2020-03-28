@@ -51,4 +51,9 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 - 平衡二叉树是指，在搭建二叉搜索树时，第一次出现一个节点的某边子树与另一边的子树的高度差超过1，则此时的树就已经不是平衡二叉（搜索）树了。要通过左旋或者右旋把它变成平衡的。这样在二分检索的时候，效率才高。<br/>
 [戳我](https://baijiahao.baidu.com/s?id=1646617486319372351&wfr=spider&for=pc)
 
+#### 贪婪
+- [贪心算法简介](https://www.cnblogs.com/aerer/p/9931068.html)
+- [leetcode中贪心算法的应用](https://blog.csdn.net/qq_43699339/article/details/90146817)
+- 思想：每次都选取当前最优，最后可以推导成整体最优时，才能使用贪心算法。
+
  
