@@ -19,6 +19,11 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 - [java用类实现queue2](https://www.cnblogs.com/lemon-flm/p/7877898.html)<br/>
 - [java用类实现queue2](https://www.runoob.com/java/data-queue.html)<br/>
 
+#### 链表
+- [链表的基础知识](https://blog.csdn.net/Shuffle_Ts/article/details/95055467)
+- [链表的java底层实现，和一些操作](https://www.cnblogs.com/llfy/p/9395936.html)
+- [Java官方列表类LinkedList解析](https://baijiahao.baidu.com/s?id=1598633392064956200&wfr=spider&for=pc)
+
 #### 二分查找（binary search）
 - 知识概要：
   - 时间复杂度o（logn）
