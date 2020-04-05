@@ -61,4 +61,9 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 - [leetcode中贪心算法的应用](https://blog.csdn.net/qq_43699339/article/details/90146817)
 - 思想：每次都选取当前最优，最后可以推导成整体最优时，才能使用贪心算法。
 
+#### 双指针问题
+> 我还没有写easy的题作为知识积累，所以这双指针问题的知识点必须重视
+- [leetcode中双指针问题汇总](https://blog.csdn.net/pushup8/article/details/85071735)
+  - 快慢指针，前后置镇，倒序指针
+
  
