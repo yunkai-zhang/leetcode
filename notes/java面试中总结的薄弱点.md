@@ -17,6 +17,9 @@
 6. 时间空间复杂度
 7. 重载和覆盖
 8. java中的final，static等具体知识和例子
+9. 时间复杂度计算，尤其是logn型
+10. tcp和udp在传输层吗
+11. java io类用了哪种设计模式
 
 #### 输入输出
 - [scanner输入输出详解。int和short讲的不错](https://blog.csdn.net/wobushixiaobailian/article/details/80279880?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-32&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-32)
@@ -35,3 +38,5 @@
 #### 学习javascript的基本语法（会写小程序就可）
 
 #### 怎么查看一个数字在电脑中二进制储存的模样，并且要删掉二进制前面多余的0
+
+
