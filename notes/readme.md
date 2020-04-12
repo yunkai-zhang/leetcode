@@ -9,6 +9,7 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 - [最小栈问题（常数时间内检索到最小元素的栈）](https://www.cnblogs.com/libai123456/p/10709310.html)<br/>
 - [leetcode中关于栈和队列的题目的总结](https://zhuanlan.zhihu.com/p/61354685)<br/>
 - [java官方stack的api](https://docs.oracle.com/javase/6/docs/api/java/util/Stack.html)<br/>
+- 引入栈：`import java.util.Stack;`。java.util是java常用的工具包，链表等也可以从里面引入！。像`牛客网`这样要自己引包的一定要记住包！
 
 
 #### 队列
