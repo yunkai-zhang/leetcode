@@ -112,7 +112,33 @@ PS:TLS是传输层加密协议，前身是SSL协议，由网景公司1995年发�
 - 一个高为k的二叉树，他最多有2^k-1个节点吗？以及类似和二叉树深度，节点相关的公式类的题目
 
 - 浏览器的两种储存方式
+ 
+  我们从前端的角度了解一下浏览器存储，我们常见且常用的存储方式主要由两种：cookie、webStorage（localStorage和sessionStorage）。下面我们来一一认识它们
+  - cookie
+  
+    Cookie基于HTTP规范，用来识别用户。<br/>
+    Cookie是服务器发送到浏览器的一小段数据，会在浏览器下次向同一服务器再发起请求时被携带并发送到服务器上。<br/>
+    Cookie诞生之初的作用就是解决HTTP的无状态请求，用来`记录一些用户相关的一些状态`。
+    - 会话状态管理（如用户登录状态、购物车、游戏分数或其它需要记录的信息）
+    - 个性化设置（如用户自定义设置、主题等）
+    - 浏览器行为跟踪（如跟踪分析用户行为等）<br/>
+    
+    因为一些前端交互的需要，后来cookie也被用于`存储一些客户端的数据`。<br/>
+    Cookie的原生api不友好，需要自行封装一下。下面是封装后的方法。
 
-- 浏览器localStorage和sessionStorage区别
+  - webstorage
+  
+    HTML5 提供了两种在客户端存储数据的新方法：`localStorage`和`sessionStorage`，挂载在window对象下。
+    `webStorage`是`本地`存储，数据不是由服务器请求传递的。从而它可以存储大量的数据，而不影响网站的性能。
+    Web Storage的目的是为了克服由cookie带来的一些限制，当`数据`需要被严格控制在`客户端`上时，无须持续地将数据发回服务器。比如客户端需要保存的一些用户行为或数据，或从接口获取的一些短期内不会更新的数据，我们就可以利用Web Storage来存储。
+    - localStorage的生命周期是永久性的。localStorage存储的数据，即使关闭浏览器，也不会让数据消失，除非主动的去删除数据。如果 想设置失效时间，需自行封装。
+    - sessionStorage 的生命周期是在浏览器关闭前。<br/>
+　　  特性：<br/>
+      关闭浏览器sessionStorage 失效；<br/>
+      页面刷新不会消除数据；<br/>
+      只有在当前页面打开的链接，才可以访sessionStorage的数据，使用window.open打开页面和改变localtion.href方式都可以获取到
+
 
 - git add是把文件保存到git的缓存区吗？
+
+  工作目录-(git add)->暂存区-(git commit)->数据目录-(git push)->git hub仓库
