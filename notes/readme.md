@@ -66,5 +66,7 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 > 我还没有写easy的题作为知识积累，所以这双指针问题的知识点必须重视
 - [leetcode中双指针问题汇总](https://blog.csdn.net/pushup8/article/details/85071735)
   - 快慢指针，前后置镇，倒序指针
-
+- 二分查找核心思想
+  - 必须保证搜索空间在每轮迭代（interation）后都会减小
+  - 当我们改变left和right时，我们必须保证target（存在的话）不会被意外的遗漏
  
