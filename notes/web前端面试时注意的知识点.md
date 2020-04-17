@@ -84,3 +84,15 @@ style直接设置了css样式<br/><br/>
 【4】如果插入的不是css而是js，则用<script> js们 <script/>在html中插入
 
 
+## 和谁学，等一些公司的前端问题
+- ul有序，ol无序吗？
+
+- http的特点，他和https的区别
+
+- 一个高为k的二叉树，他最多有2^k-1个节点吗？以及类似和二叉树深度，节点相关的公式类的题目
+
+- 浏览器的两种储存方式
+
+- 浏览器localStorage和sessionStorage区别
+
+- git add是把文件保存到git的缓存区吗？
