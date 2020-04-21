@@ -20,6 +20,7 @@
 9. 时间复杂度计算，尤其是logn型
 10. tcp和udp在传输层吗
 11. java io类用了哪种设计模式
+12. 对面向对象的理解
 
 #### 输入输出
 - [scanner输入输出详解。int和short讲的不错](https://blog.csdn.net/wobushixiaobailian/article/details/80279880?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-32&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-32)
