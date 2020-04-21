@@ -142,3 +142,17 @@ PS:TLS是传输层加密协议，前身是SSL协议，由网景公司1995年发�
 - git add是把文件保存到git的缓存区吗？
 
   工作目录-(git add)->暂存区-(git commit)->数据目录-(git push)->git hub仓库
+  
+#### 网易，树根
+1. flex布局调整使列
+
+2. 流布局怎样的，瀑布布局又怎样
+
+3. 清除float怎么实现
+
+4. 浏览器localstorage的api
+
+- span是不是块状布局<br/>
+不是
+
+5. 同步和异步
