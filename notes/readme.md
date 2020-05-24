@@ -50,6 +50,9 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
   
 - [动态规划以及例题，详细，共七集](https://www.bilibili.com/video/av95895415?p=1)<br/>
 
+- backtracking
+  - backtracking的经典例题是lc22，39，46。算法末班可以参考lc46的v1。
+
 
 #### 树
 - [二叉树的前序中序后序遍历](https://blog.csdn.net/weixin_41316824/article/details/88721467)，还不懂可以去b站看视频讲解
