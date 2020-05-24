@@ -52,6 +52,7 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 
 - backtracking
   - backtracking的经典例题是lc22，39，46。算法末班可以参考lc46的v1。
+  - [这个人在lc中贴出了lc中backtracking题的汇总和解法，可以参考](https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning))
 
 
 #### 树
