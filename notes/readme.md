@@ -112,3 +112,7 @@ void anti_rotate(vector<vector<int> > &matrix) {
 }
 ```
 - 例题见lc48
+
+
+#### 字符串
+- `substring（beginindex（含））`或`substring（beginindex（含），endindex（不含））`可以方便得提取子字符串。
