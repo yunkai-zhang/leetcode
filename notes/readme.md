@@ -62,6 +62,7 @@ I will put some links of blogs about the knowledge of each tag in leetcode here.
 - [递归和迭代的区别](https://www.jianshu.com/p/32bcc45efd32)
 - 平衡二叉树是指，在搭建二叉搜索树时，第一次出现一个节点的某边子树与另一边的子树的高度差超过1，则此时的树就已经不是平衡二叉（搜索）树了。要通过左旋或者右旋把它变成平衡的。这样在二分检索的时候，效率才高。<br/>
 [戳我](https://baijiahao.baidu.com/s?id=1646617486319372351&wfr=spider&for=pc)
+- 大佬语录：树问题中，不需要考虑整个树时怎样的，只需要考虑“在这个节点上应该发生什么我才能解决这个问题。”
 
 #### 贪婪
 - [贪心算法简介](https://www.cnblogs.com/aerer/p/9931068.html)
